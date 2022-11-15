@@ -1,6 +1,7 @@
 # The Migration Execution Guide
 
-Prescriptive guidance for the structure and running of a successful migration project. 
+Prescriptive guidance for the structure and running of a successful migration project.
+
 [![](/images/list.png)](/images/list.png)
 
 The guidance includes digital estate discovery, defining the migration scope with common business drivers, selection and implementation of migration tooling, project management, risk management and many other related templates.
@@ -14,7 +15,8 @@ Preempt support incidents, service outages and project delays by detailing a cle
 ## Artifacts
 
 **Under construction - will be uploaded soon**
-[Excel spreadsheet](https://github.com/Azure/migration/releases/download/v0.4/themeg.xlsx)
+
+[Excel Spreadsheet](https://github.com/Azure/migration/releases/download/v0.4/themeg.xlsx)
 
 ## Microsoft programs and funding to assist with migration projects
 
@@ -29,11 +31,14 @@ Preempt support incidents, service outages and project delays by detailing a cle
 *Microsoft programs and funding are subject to change. Please discuss with your Microsoft representative if you would like to participate in any of the programs.*
 
 ## What is involved with a typical migration project?
+
 This resource includes guidance for all phases of the typical migration approach in the graphic below. The [design of a new, or validation of an existing landing zone](https://github.com/Azure/review-checklists) for migrated workloads is recommended, along with a [cloud operating model and operations plan](https://github.com/Azure/cloud-rolesandops) to manage migrated workloads. Neither of these are within the scope of this resource. FastTrack for Azure offer separate resources to assist with these areas.
+
 [![](/images/migrationlifecycle.png)](/images/migrationlifecycle.png)
 
-## How do we use the migration execution guide?
-Work through the steps in the Excel spreadsheet, or navigate directly to a topic of interest. Refer to the below summary of the content in the guide.
+## How to use the migration execution guide?
+
+Work through the steps, or navigate directly to a topic of interest. Refer to the below summary of the content in the Excel Spreadsheet.
 
 |Step	|Item	|Description	|
 | ------------ | ------------ | ------------ |
@@ -44,7 +49,7 @@ Work through the steps in the Excel spreadsheet, or navigate directly to a topic
 |5| Familiarize or refresh knowledge using recommended training resources and reference material	|Training|
 |6| Reference the 'Tooling...' worksheets for a visual summary of the different discovery, assessment and migration strategies.	|Tooling|
 |7| Use the Checklist to ensure that key business, project management and technical recommendations are followed, and common issues are avoided	|Best practice, field experience and incident root cause driven guidance.|
-|8| Consider templates for your project:	||
+|8| Consider templates for your project, including:	||
 ||	Project Plan Template	|Project Management|
 ||	Digital Estate Discovery Template	|The purpose of the digital estate discovery is to present an inventory of applications and services to the business in order to determine the scope and nature of a migration project. Important dates should be captured and mapped to milestones in the project plan.|
 ||	Workload Template	|The purpose of the workload resource is to document and map the current technical attributes of the individual components of a workload to the future attributes of the migrated state. The information in this resource is used as input when configuring replication and migration options. It is also an important input to pre-and-post migration tasks that form the migration-day runbook.|
