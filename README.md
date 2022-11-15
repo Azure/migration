@@ -33,7 +33,7 @@ Pre-empt support incidents, service outages and project delays by detailing a cl
 
 ## Migration Framework
 
-The Migration Execution Guide defines the migration framework as detailed in the graphic below. The [design of a new, or validation of an existing landing zone](https://github.com/Azure/review-checklists) for migrated workloads is recommended along with a [cloud operating model and operations plan](https://github.com/Azure/cloud-rolesandops) to manage migrated workloads. Neither of these are within the scope of the migration execution guide. FastTrack for Azure have separate resources to assist with these areas.
+The Migration Execution Guide defines the migration framework as detailed in the graphic below. In addition, the [design of a new, or validation of an existing landing zone](https://github.com/Azure/review-checklists) for migrated workloads is recommended along with a [cloud operating model and operations plan](https://github.com/Azure/cloud-rolesandops) to manage migrated workloads. Neither of these are within the scope of the migration execution guide. FastTrack for Azure have separate resources to assist with these areas.
 
 [![](/images/migrationlifecycle.png)](/images/migrationlifecycle.png)
 
