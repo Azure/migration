@@ -18,7 +18,7 @@ Pre-empt support incidents, service outages and project delays by detailing a cl
 
 [Excel Spreadsheet](https://github.com/Azure/migration/releases/download/v0.4/themeg.xlsx)
 
-## Microsoft programs and funding to assist with migration projects
+## Microsoft Programs and Funding
 
 |Program |Description|
 | ------------ | ------------ |
@@ -28,15 +28,16 @@ Pre-empt support incidents, service outages and project delays by detailing a cl
 |[Azure migration and modernisation program](https://www.microsoft.com/azure/partners/ammp)|Microsoft Partners to assist with your program of work.|
 
 **Note**
-*Microsoft programs and funding are subject to change. Please discuss with your Microsoft representative if you would like to participate in any of the programs.*
 
-## What is involved with a typical migration project?
+**Microsoft programs and funding are subject to change. Please discuss with your Microsoft representative if you would like to participate in any of the programs.**
 
-This resource includes guidance for all phases of the typical migration approach in the graphic below. The [design of a new, or validation of an existing landing zone](https://github.com/Azure/review-checklists) for migrated workloads is recommended, along with a [cloud operating model and operations plan](https://github.com/Azure/cloud-rolesandops) to manage migrated workloads. Neither of these are within the scope of this resource. FastTrack for Azure offer separate resources to assist with these areas.
+## Migration Framework
+
+The Migration Execution Guide defines the migration framework as per the graphic below. The [design of a new, or validation of an existing landing zone](https://github.com/Azure/review-checklists) for migrated workloads is recommended, along with a [cloud operating model and operations plan](https://github.com/Azure/cloud-rolesandops) to manage migrated workloads. Neither of these are within the scope of the migration execution guide. FastTrack for Azure offer separate resources to assist with these areas.
 
 [![](/images/migrationlifecycle.png)](/images/migrationlifecycle.png)
 
-## How to use the migration execution guide?
+## Migration Execution Guide Content
 
 Work through the steps, or navigate directly to a topic of interest. Refer to the below summary of the content in the Excel Spreadsheet.
 
