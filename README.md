@@ -10,7 +10,7 @@ Provide consistent, well-considered migration execution guidance at the business
 
 Reduce the time required on Azure Migrate readiness by taking the complexity out of the different architectures, methodologies and prerequisite work.
 
-Preempt support incidents, service outages and project delays by detailing a clear phase-by-phase migration journey with FastTrack for Azure best practices based on field experience, incident root cause analysis, the highlighting of common risks, and additional risk mitigation through request for change, and other templates with attributes that specifically address common mistakes and oversights during migrations.
+Pre-empt support incidents, service outages and project delays by detailing a clear phase-by-phase migration journey with FastTrack for Azure best practices based on field experience, incident root cause analysis, the highlighting of common risks, and additional risk mitigation through request for change, and other templates with attributes that specifically address common mistakes and oversights during migrations.
 
 ## Artifacts
 
