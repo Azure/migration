@@ -44,7 +44,7 @@ Work through the steps, or navigate directly to a topic of interest. Refer to th
 | ------------ | ------------ | ------------ |
 |1| Review the migration phases to get an understanding of the end-to-end procedure	|Migration Lifecycle|
 |2| Review workshop questions	|Sample questions to use during workshops with the business and technical teams in order to populate the migration templates and make migration decisions. [![](/images/questions.png)](/images/questions.png)|
-|3| Review the DACI matrix to understand the roles and responsibilities within a typical migration project	|Resource Management|
+|3| Review the DACI matrix to understand the roles and responsibilities within a typical migration project	|Resource Management [![](/images/daci.png)](/images/daci.png)|
 |4| Assign resources to roles and responsibilities using the Team worksheet	|Resource Management|
 |5| Familiarize or refresh knowledge using recommended training resources and reference material	|Training|
 |6| Reference the 'Tooling...' worksheets for a visual summary of the different discovery, assessment and migration strategies.	|Tooling|
