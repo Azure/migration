@@ -4,7 +4,7 @@ Prescriptive guidance for the structure and running of a successful migration pr
 
 [![](/images/list.png)](/images/list.png)
 
-The guidance includes digital estate discovery, defining the migration scope with common business drivers, selection and implementation of migration tooling, project management, risk management and many other related templates.
+The guidance include digital estate discovery, defining the migration scope with common business drivers, selection and implementation of migration tooling, project management, risk management and many other related templates.
 
 Provide consistent, well-considered migration execution guidance at the business, project and technical levels.
 
