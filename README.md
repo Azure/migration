@@ -35,7 +35,7 @@ The Migration Execution Guide defines the migration framework as detailed in the
 
 
 
-## Migration Execution Guide Content
+## Content
 
 Work through the steps, or navigate directly to a topic of interest. Refer to the below summary of the content in the Excel Spreadsheet.
 
