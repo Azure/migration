@@ -1,6 +1,6 @@
 # The Migration Execution Guide
 
-This repo contains a Migration Execution Guide, which has been authored by FastTrack Engineers and contributed to by other Microsoft Engineers across multiple teams. It provides prescriptive guidance for the structure and running of a successful migration project. The guidance includes digital estate discovery, defining the migration scope with common business drivers, selection and implementation of migration tooling, project management, risk management and many other related templates. It can also:
+This repo contains a Migration Execution Guide, which has been authored and developed by a team of FastTrack for Azure Program Managers and Engineers working with the Microsoft SMC team, the Azure Advanced Cloud Engineering team and the Customer Success Unit.. It provides prescriptive guidance for the structure and running of a successful migration project. The guidance includes digital estate discovery, defining the migration scope with common business drivers, selection and implementation of migration tooling, project management, risk management and many other related templates. It can also:
 
 * Provide consistent, well-considered migration execution guidance at the business, project and technical levels.
 * Reduce the time required on Azure migration readiness by taking the complexity out of the different architectures, methodologies and prerequisite work.
