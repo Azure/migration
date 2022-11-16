@@ -1,12 +1,13 @@
 # The Migration Execution Guide
 
-This repo contains a Migration Execution Guide, which has been authored and developed by a team of FastTrack for Azure Program Managers and Engineers working with the Microsoft SMC team, the Azure Advanced Cloud Engineering team and the Customer Success Unit.. It provides prescriptive guidance for the structure and running of a successful migration project. The guidance includes digital estate discovery, defining the migration scope with common business drivers, selection and implementation of migration tooling, project management, risk management and many other related templates. It can also:
+This repo contains a Migration Execution Guide, which has been authored and developed by a team of FastTrack for Azure Program Managers and Engineers working with the Microsoft SMC team, the Azure Advanced Cloud Engineering team and the Customer Success Unit. It provides prescriptive guidance for the structure and running of a successful migration project. The guidance includes digital estate discovery, defining the migration scope with common business drivers, selection and implementation of migration tooling, project management, risk management and many other related templates. Objectives include:
 
 * Provide consistent, well-considered migration execution guidance at the business, project and technical levels.
 * Reduce the time required on Azure migration readiness by taking the complexity out of the different architectures, methodologies and prerequisite work.
 * Pre-empt support incidents, service outages and project delays by detailing a clear phase-by-phase migration journey with FastTrack for Azure best practices. These best practices are based on field experience, incident root cause analysis, highlighting of common risks, and additional risk mitigation through request for change templates, and other templates with attributes that specifically address common mistakes and oversights during migrations.
 
-This is a sample of the checklist, and the recommendations contained within. The checklist can be filtered based on the different stages of your migration, the relevant topics, source environments, etc.
+This is a sample of the checklist with various recommendations. The list can be filtered based on the different stages of your migration, the relevant topics, source environments, etc.
+
 [![](/images/list.png)](/images/list.png)
 ## Artifacts
 
