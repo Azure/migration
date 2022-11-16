@@ -9,6 +9,7 @@ This repo contains a Migration Execution Guide, which has been authored and deve
 This is a sample of the checklist with various recommendations. The list can be filtered based on the different stages of your migration, the relevant topics, source environments, etc.
 
 [![](/images/list.png)](/images/list.png)
+
 ## Artifacts
 
 **Under construction - will be uploaded soon**
@@ -57,7 +58,9 @@ Work through the steps, or navigate directly to a topic of interest. Refer to th
 ||	Risk Register Template	|The risk register is a very important part of every migration project. The purpose of the example in this guide is to detail common risks that need to be evaluated along with any available mitigation, and plans to migrate services that are subject to these risks. <br><br> [![](/images/risk.png)](/images/risk.png)|
 
 ------------
-**Related FastTrack for Azure resources**
+
+## Related FastTrack for Azure resources
+
 - [Landing Zone Review Checklist](https://github.com/Azure/review-checklists)
 - [Cloud Roles and Operations Management](https://github.com/Azure/cloud-rolesandops)
 - [FastTrack for Azure on Microsoft Learn](https://learn.microsoft.com/en-us/training/azure/fasttrack)
