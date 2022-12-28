@@ -16,7 +16,7 @@ This is a sample of the checklist with various recommendations. The list can be 
 
 ## Migration Framework
 
-The Migration Execution Guide defines the migration framework as detailed in the graphic below. In addition, the [design of a new, or validation of an existing landing zone](https://github.com/Azure/review-checklists) for migrated workloads is recommended along with a [cloud operating model and operations plan](https://github.com/Azure/cloud-rolesandops) to manage migrated workloads. Neither of these are within the scope of the Migration Execution Guide. FastTrack for Azure have separate resources to assist with these areas.
+The Migration Execution Guide defines the migration framework as detailed in the graphic below. In addition, the [design of a new, or validation of an existing landing zone](https://github.com/Azure/review-checklists) for migrated workloads is recommended along with a [cloud operating model and operations plan](https://github.com/Azure/cloud-rolesandops) to manage migrated workloads. However, neither of these are within the scope of the Migration Execution Guide. FastTrack for Azure have separate resources to assist with these areas.
 
 [![](/images/migrationlifecycle.png)](/images/migrationlifecycle.png)
 
