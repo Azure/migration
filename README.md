@@ -12,9 +12,9 @@ This is a sample of the checklist with various recommendations. The list can be 
 
 ## Artifacts
 
-[MEG v0.9 Framework (draft release)](https://github.com/Azure/migration/blob/main/excel/MEG%20v0.9%20-%20Framework.xlsx)
+[MEG v0.91 Framework (draft release)](https://github.com/Azure/migration/blob/main/excel/MEG%20v0.91%20-%20Framework.xlsx)
 
-[MEG v0.9 Checklist (draft release)](https://github.com/Azure/migration/blob/main/excel/MEG%20v0.9%20-%20Checklist.xlsx)
+[MEG v0.91 Checklist (draft release)](https://github.com/Azure/migration/blob/main/excel/MEG%20v0.91%20-%20Checklist.xlsx)
 
 ## Migration Framework
 
