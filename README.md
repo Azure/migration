@@ -16,6 +16,8 @@ This is a sample of the checklist with various recommendations. The list can be 
 
 [MEG v0.96 Checklist (draft release)](https://github.com/Azure/migration/blob/main/excel/MEG%20v0.96%20-%20Checklist.xlsx)
 
+[MEG v0.95 Checklist (Japanese) (draft release)](https://github.com/Azure/migration/blob/main/excel/MEG%20v0.95%20-%20Checklist_ja.xlsx)
+
 ## Migration Framework
 
 The Migration Execution Guide defines the migration framework as detailed in the graphic below. In addition, the [design of a new, or validation of an existing landing zone](https://github.com/Azure/review-checklists) for migrated workloads is recommended along with a [cloud operating model and operations plan](https://github.com/Azure/cloud-rolesandops) to manage migrated workloads. However, neither of these are within the scope of the Migration Execution Guide. FastTrack for Azure have separate resources to assist with these areas.
