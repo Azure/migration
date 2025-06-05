@@ -1,6 +1,6 @@
 # The Migration Execution Guide
 
-This repo contains a Migration Execution Guide, which has been authored and developed by a team of FastTrack for Azure Program Managers and Engineers working with the Microsoft SMC team, the Azure Advanced Cloud Engineering team and the Customer Success Unit. It provides prescriptive guidance for the structure and running of a successful migration project. The guidance includes digital estate discovery, defining the migration scope with common business drivers, selection and implementation of migration tooling, project management, risk management and many other related templates. Objectives include:
+This repo contains a Migration Execution Guide, which was authored and developed by a team of FastTrack for Azure Program Managers and Engineers working with the Microsoft SMC team, the Azure Advanced Cloud Engineering team, The Partner Team and the Customer Success Unit. It provides prescriptive guidance for the structure and running of a successful migration project. The guidance includes digital estate discovery, defining the migration scope with common business drivers, selection and implementation of migration tooling, project management, risk management and many other related templates. Objectives include:
 
 * Provide consistent, well-considered migration execution guidance at the business, project and technical levels.
 * Reduce the time required on Azure migration readiness by taking the complexity out of the different architectures, methodologies and prerequisite work.
@@ -20,7 +20,7 @@ This is a sample of the checklist with various recommendations. The list can be 
 
 ## Migration Framework
 
-The Migration Execution Guide defines the migration framework as detailed in the graphic below. In addition, the [design of a new, or validation of an existing landing zone](https://github.com/Azure/review-checklists) for migrated workloads is recommended along with a [cloud operating model and operations plan](https://github.com/Azure/cloud-rolesandops) to manage migrated workloads. However, neither of these are within the scope of the Migration Execution Guide. FastTrack for Azure have separate resources to assist with these areas.
+The Migration Execution Guide defines the migration framework as detailed in the graphic below. In addition, the [design of a new, or validation of an existing landing zone](https://github.com/Azure/review-checklists) for migrated workloads is recommended along with a [cloud operating model and operations plan](https://github.com/Azure/cloud-rolesandops) to manage migrated workloads. However, neither of these are within the scope of the Migration Execution Guide. 
 
 [![](/images/migrationlifecycle.png)](/images/migrationlifecycle.png)
 
@@ -28,7 +28,6 @@ The Migration Execution Guide defines the migration framework as detailed in the
 
 |Program |Description|
 | ------------ | ------------ |
-|[FastTrack for Azure](https://www.microsoft.com/azure/partners/fasttrack-for-azure)|FastTrack for Azure is a technical enablement program for organizations with cloud projects that enables the rapid, effective design, and deployment of Azure solutions in the cloud. It includes tailored guidance from Azure engineers that leverages proven practices and architectural guides.|
 |[Microsoft Solution Assessment Program](https://www.microsoft.com/en-us/solutionassessments/)|To ensure you use data driven insights to plan your digital transformation.|
 |[Azure Migration and Modernisation Program](https://azure.microsoft.com/en-us/migration/migration-modernization-program/#overview)|End-to-end migration assistance with the migration of workloads like, SQL, SAP, AVD and application modernisation.|
 |[Azure Migration and Modernization Program (Partners)](https://www.microsoft.com/azure/partners/ammp)|Microsoft Partners to assist with your program of work.|
@@ -63,11 +62,10 @@ Work through the steps, or navigate directly to a topic of interest. Refer to th
 
 ------------
 
-## Related FastTrack for Azure Resources
+## Related Resources
 
 - [Landing Zone Review Checklist](https://github.com/Azure/review-checklists)
 - [Cloud Roles and Operations Management](https://github.com/Azure/cloud-rolesandops)
-- [FastTrack for Azure on Microsoft Learn](https://learn.microsoft.com/en-us/training/azure/fasttrack)
 
 ## Contributing
 
